@@ -7,8 +7,8 @@ Git (if cloning from a repository)
 
 
 1. Clone the Repository
-git clone <your_repo_url>
-cd <project_folder>
+git clone https://github.com/Sunilkumar-Halasur/inventory.git
+cd <inventory_project>
 
 
 2. Create and Activate Virtual Environment
